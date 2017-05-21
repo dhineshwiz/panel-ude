@@ -1,0 +1,26 @@
+{
+  "name": "panel-ude",
+  "version": "1.0.0",
+  "description": "panel for universal data extractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhineshwiz/panel-ude.git"
+  },
+  "keywords": [
+    "panel",
+    "ude"
+  ],
+  "author": "dhinesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhineshwiz/panel-ude/issues"
+  },
+  "homepage": "https://github.com/dhineshwiz/panel-ude#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
